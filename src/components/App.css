@@ -1,0 +1,60 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+.red {
+  color: #fff;
+  font-size: 30px;
+  width: 300px;
+  height: 300px;
+  background: #ff7979;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.blue {
+  color: #fff;
+  font-size: 30px;
+  width: 200px;
+  height: 200px;
+  background: #686de0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.blue button {
+  background: #fff;
+  width: 50px;
+}
+.increment {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
+.decrement {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+.green {
+  color: #fff;
+  font-size: 30px;
+  width: 100px;
+  height: 100px;
+  background: #6ab04c;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.number {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
